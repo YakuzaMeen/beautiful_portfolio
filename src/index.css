@@ -1,6 +1,6 @@
 @import "tailwindcss";
 
-@theme {
+@theme{
   --color-border: hsl(var(--border));
   --color-background: hsl(var(--background));
   --color-foreground: hsl(var(--foreground));
@@ -159,4 +159,4 @@
   margin: 0 auto;
   padding: 0;
   text-align: center;
-}
+} 
