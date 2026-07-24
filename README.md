@@ -1,16 +1,59 @@
-# React + Vite
+# Oskar Sosa — Software Engineering Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A motion-driven professional portfolio focused on software development, quality assurance, mobile applications and IoT solutions.
 
-Currently, two official plugins are available:
+## Highlights
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Full-screen animated hero and magnetic code window
+- Responsive navigation and mobile menu
+- Animated technology marquees
+- About and expertise sections
+- Sticky stacked featured-project cards
+- Secondary project gallery
+- Quality Assurance capabilities and experience
+- Technology stack grouped by discipline
+- Education and continuous-learning section
+- Responsive contact footer
 
-## React Compiler
+## Featured work
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Seven Gym CRM
+- EMSafe Mobile IoT
+- HogarPlan
+- Carta Restaurante Pepinos
+- EcoRegula
+- Teatrope
+- Huffman Compressor
+- MindCare Database
+- BloodNet
 
-## Expanding the ESLint configuration
+## Technology
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Vite
+- Framer Motion
+- Tailwind CSS
+- Lucide React
+
+## Local development
+
+```bash
+npm install
+npm run dev
+```
+
+## Production build
+
+```bash
+npm run build
+npm run preview
+```
+
+## Deployment
+
+The repository includes `vercel.json` and is ready to be imported into Vercel as a Vite project.
+
+## Contact
+
+- GitHub: [YakuzaMeen](https://github.com/YakuzaMeen)
+- Email: u202212214@upc.edu.pe
