@@ -1,5 +1,5 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-// importar tu Home, no el icono
+import "./portfolio.css";
 import { Home } from "./pages/Home";
 import NotFound from "./pages/NotFound";
 
